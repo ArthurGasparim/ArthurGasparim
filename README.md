@@ -1,5 +1,5 @@
 # 💫 About Me:
-CompScy student at Unoest<br>Currently working on ML projects and cloud integration<br>Larning about Data Science, Cloud, ML, RNN
+CompScy student at Unoest<br>Currently working on ML and cloud integration projects <br>Larning about Data Science, Cloud, ML, RNN
 
 
 ## 🌐 Socials:
